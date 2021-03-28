@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working at [Pony.ai](https://pony.ai)
+- 🔭 I'm currently working at [Pony.ai](https://pony.ai) (an autonomous vehicle technology company)
 - 💬 Ask me about opening positions at [Pony.ai](https://pony.ai) (We are hiring!!)
 - 📫 How to reach me: WeChat (wangdongustcer)
 <!--
