@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working at [Pony.ai](https://pony.ai) (an autonomous vehicle technology company)
-- 💬 Ask me about opening positions at [Pony.ai](https://pony.ai) (We are hiring!!)
+- 💬 Ask me about opening positions at [Pony.ai](https://pony.ai) (we are hiring!!)
 - 📫 How to reach me: WeChat (wangdongustcer)
 <!--
 **wangdongustc/wangdongustc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
